@@ -1,0 +1,27 @@
+
+Add Students:
+
+John Doe Jdoe@gmail.com
+Jill Scott Jscott@yahoo.com
+Robert Lillard rob.lill@gmail.com
+Paul Hills phills@uncc.edu
+Ana Smith smith.a@gmail.com
+Bob Peters Bpeters@yahoo.com
+Simone Brown simone@yahoo.com
+Kyle Johnson kjohn@uncc.edu
+Mike Calls Mcalls@gmail.com
+Cathy Griffin Cgriffin@uncc.edu
+
+Add Points:
+
+100000 400 300 200 100
+100001 300 200 100 0
+100002 200 100 0 0
+100003 100 0 0 0
+100004 0 0 0 0
+100005 350 250 150 0
+100006 250 150 0 0
+100007 0 0 300 200
+100008 0 300 200 100
+100009 100 200 300 400
+
